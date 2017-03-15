@@ -1,5 +1,5 @@
 {
-  "name": "hack-class-redux-0306",
+  "name": "react-redux-app",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -12,7 +12,12 @@
     "react-router": "^3.0.2",
     "react-router-redux": "^4.0.8",
     "redux": "^3.6.0",
-    "redux-thunk": "^2.2.0"
+    "redux-devtools": "^3.3.2",
+    "redux-devtools-dock-monitor": "^1.1.1",
+    "redux-devtools-log-monitor": "^1.2.0",
+    "redux-logger": "^2.8.2",
+    "redux-thunk": "^2.2.0",
+    "reselect": "^2.5.4"
   },
   "scripts": {
     "start": "react-scripts start",
